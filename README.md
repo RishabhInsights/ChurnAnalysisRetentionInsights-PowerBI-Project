@@ -93,4 +93,4 @@ The dashboard consists of three pages:
 ---
 
 ## Contact
-For inquiries or collaborations, reach out via [jrishabh444@gmail.com].
+For inquiries or collaborations, reach out via jrishabh444@gmail.com.
